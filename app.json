@@ -1,0 +1,6 @@
+{
+  "name": "docker-minecraft-server",
+  "description": "docker-minecraft-server docker-minecraft-server",
+  "repository": "https://github.com/SaidulBadhon/docker-minecraft-server",
+  "stack": "container"
+}
